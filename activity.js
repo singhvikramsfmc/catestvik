@@ -1,5 +1,5 @@
 console.log("SFMC ACTIVITY STARTED - STEP 1");
-/*var h = {
+var h = {
     "lst_nm": "Wagner",
     "first_nm": "Michelle",
     "policy_nbr": "76414020",
@@ -47,5 +47,5 @@ console.log("SFMC ACTIVITY STARTED - STEP 1");
    connection.trigger('updateActivity',configuration);
   });
   
-  */
+  
   
